@@ -39,6 +39,8 @@ The program will display movie recommendations for the specified user based on t
 ### Program Example
 
 ![Pearson](https://github.com/s23578-pj/kolokwiumJAZ/assets/73029891/eeef87b0-086a-4daa-a8e2-9193cde26c95)
+![Euclidean](https://github.com/s23578-pj/kolokwiumJAZ/assets/73029891/9c2cfb9e-5533-45a5-a36c-e2f05df890a5)
+![MSE](https://github.com/s23578-pj/kolokwiumJAZ/assets/73029891/08892c8b-46e8-4943-af95-dfef47f0c13b)
 
 
 ### Usage
