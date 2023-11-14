@@ -1,5 +1,5 @@
 # NAI 3
-Narzędzia sztucznej Inteligencji
+Narzędzia sztucznej Inteligencji.
 
 # Movie Recommendations: Movie or Series Recommendation Engine
 
@@ -28,8 +28,10 @@ Your will find in the main.py file the section Movie Recommendations for a Given
 
 python main.py --user <username> --score-type <score_type>
 
+```bash
 --user: Input user, as a String.
 --score-type: Choose between Euclidean, Pearson, or MSE distance metrics, as a String.
+```
 
 ### Output
 The program will display movie recommendations for the specified user based on the selected score type.
@@ -38,12 +40,16 @@ The program will display movie recommendations for the specified user based on t
 
 1. clone the repository:
 
+```bash
 git clone https://github.com/your-username/movies-recommendation.git
 cd movies-recommendation
+```
 
 2. Run the main script with the desired parameters:
 
+```bash
 python main.py --user <username> --score-type <Euclidean/Pearson/MSE>
+```
 
 Replace '<username>' with the target user's name and <Euclidean/Pearson/MSE> with the desired distance metric.
 
