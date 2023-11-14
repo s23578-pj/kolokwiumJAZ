@@ -38,7 +38,8 @@ The program will display movie recommendations for the specified user based on t
 
 ### Program Example
 
-![Screenshot](https://prnt.sc/rev4qaaOE513)
+![Screenshot](![image](https://github.com/s23578-pj/kolokwiumJAZ/assets/73029891/60252bb1-3b29-4a1b-abd1-51f5dc76c34f)
+)
 
 ### Usage
 Run the main script with the desired parameters:
