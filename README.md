@@ -1,4 +1,10 @@
+# NAI 3
+Narzędzia sztucznej Inteligencji
+
 # Movie Recommendations: Movie or Series Recommendation Engine
+
+This program uses a movie or series recommendation engine based on collaborative filtering. It provides personalized
+recommendations for users by analyzing their movie preferences and comparing them with other users in the dataset.
 
 ## Authors
 - Alicja Szczypior
@@ -15,8 +21,9 @@ To install the required libraries, you can use pip:
 ```bash
 pip3 install numpy
 pip3 install argparse
+```
 
-How To Use It
+### How To Use It
 Your will find in the main.py file the section Movie Recommendations for a Given User. Use the command line to provide user and score type:
 
 python main.py --user <username> --score-type <score_type>
@@ -24,10 +31,10 @@ python main.py --user <username> --score-type <score_type>
 --user: Input user, as a String.
 --score-type: Choose between Euclidean, Pearson, or MSE distance metrics, as a String.
 
-Output
+### Output
 The program will display movie recommendations for the specified user based on the selected score type.
 
-Usage
+### Usage
 
 1. clone the repository:
 
