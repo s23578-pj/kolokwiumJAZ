@@ -38,9 +38,8 @@ The program will display movie recommendations for the specified user based on t
 
 ### Program Example
 
-![Recommended_Movie(![image](![image](https://github.com/s23578-pj/kolokwiumJAZ/assets/73029891/a5c866a5-bd42-4e4b-8559-16c1baa92ba1)
-)
-)
+![Pearson](https://github.com/s23578-pj/kolokwiumJAZ/assets/73029891/eeef87b0-086a-4daa-a8e2-9193cde26c95)
+
 
 ### Usage
 Run the main script with the desired parameters:
