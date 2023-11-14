@@ -36,6 +36,10 @@ python main.py --user <username> --score-type <score_type>
 ### Output
 The program will display movie recommendations for the specified user based on the selected score type.
 
+### Program Example
+
+![Screenshot](https://prnt.sc/rev4qaaOE513)
+
 ### Usage
 Run the main script with the desired parameters:
 
