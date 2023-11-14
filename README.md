@@ -37,15 +37,7 @@ python main.py --user <username> --score-type <score_type>
 The program will display movie recommendations for the specified user based on the selected score type.
 
 ### Usage
-
-1. clone the repository:
-
-```bash
-git clone https://github.com/your-username/movies-recommendation.git
-cd movies-recommendation
-```
-
-2. Run the main script with the desired parameters:
+Run the main script with the desired parameters:
 
 ```bash
 python main.py --user <username> --score-type <Euclidean/Pearson/MSE>
@@ -56,8 +48,10 @@ Replace '<username>' with the target user's name and <Euclidean/Pearson/MSE> wit
 Data Format
 Ensure your movie ratings data is in JSON format and follows the structure outlined below:
 
+```python
 {
   "user1": {"movie1": 5, "movie2": 3, ...},
   "user2": {"movie1": 4, "movie3": 1, ...},
   ...
 }
+```
